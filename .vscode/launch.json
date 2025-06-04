@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "VowelCount",
+            "request": "launch",
+            "mainClass": "VowelCount",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "SortArray",
+            "request": "launch",
+            "mainClass": "SortArray",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeCheck",
+            "request": "launch",
+            "mainClass": "PalindromeCheck",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        }
+    ]
+}

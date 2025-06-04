@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StartEndCheck",
+            "request": "launch",
+            "mainClass": "StartEndCheck",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "SplitSentence",
+            "request": "launch",
+            "mainClass": "SplitSentence",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "CharOccurance",
+            "request": "launch",
+            "mainClass": "CharOccurance",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "StringCompare",
+            "request": "launch",
+            "mainClass": "StringCompare",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "CharCount",
+            "request": "launch",
+            "mainClass": "CharCount",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
             "name": "PalindromeExample",
             "request": "launch",
             "mainClass": "PalindromeExample",

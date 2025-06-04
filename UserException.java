@@ -21,9 +21,10 @@ public class UserException {
             // Input operator
             System.out.print("Enter an operator (+, -, *, /): ");
             char op = sc.next().charAt(0);
-
+            
+            sc.close();
+            
             double result;
-
             switch (op) {
                 case '+':
                     result = a + b;

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "UserException",
+            "request": "launch",
+            "mainClass": "UserException",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "StudentsMarksCalculator",
+            "request": "launch",
+            "mainClass": "StudentsMarksCalculator",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
             "name": "DynamicBindingShape",
             "request": "launch",
             "mainClass": "DynamicBindingShape",

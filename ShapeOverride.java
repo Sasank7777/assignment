@@ -20,8 +20,8 @@ class RectangleShape extends Shape {
 
 public class ShapeOverride {
     public static void main(String[] args) {
-        CircleShape circle = new CircleShape();
-        RectangleShape rectangle = new RectangleShape();
+        Shape circle = new CircleShape();
+        Shape rectangle = new RectangleShape();
 
         circle.display();
         rectangle.display();

@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DynamicBindingShape",
+            "request": "launch",
+            "mainClass": "DynamicBindingShape",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "ShapeOverride",
+            "request": "launch",
+            "mainClass": "ShapeOverride",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "AbstractShape",
+            "request": "launch",
+            "mainClass": "AbstractShape",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "CalciConstructors",
+            "request": "launch",
+            "mainClass": "CalciConstructors",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "CalciOverloading",
+            "request": "launch",
+            "mainClass": "CalciOverloading",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "CalciOverriding",
+            "request": "launch",
+            "mainClass": "CalciOverriding",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "StringAllOperations",
+            "request": "launch",
+            "mainClass": "StringAllOperations",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
             "name": "StartEndCheck",
             "request": "launch",
             "mainClass": "StartEndCheck",

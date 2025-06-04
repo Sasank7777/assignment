@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromeUsingStrings",
+            "request": "launch",
+            "mainClass": "PalindromeUsingStrings",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
             "name": "VowelCount",
             "request": "launch",
             "mainClass": "VowelCount",

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
+            "name": "HidingExample",
+            "request": "launch",
+            "mainClass": "HidingExample",
+            "projectName": "JAVA ASSIGNMENT_79b59714"
+        },
+        {
+            "type": "java",
             "name": "UserException",
             "request": "launch",
             "mainClass": "UserException",

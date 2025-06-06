@@ -1,4 +1,4 @@
-public class Main {
+public class StringHiding {
 
     public static String hideLast4Digits(String phoneNumber) {
         if (phoneNumber == null || phoneNumber.length() < 4) {

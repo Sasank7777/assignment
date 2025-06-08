@@ -1,7 +1,10 @@
-abstract class ShapeDynamic {
-    abstract double area();
+class ShapeDynamic {
+       double area(){
+            System.out.println("Shape area not defined");
+            return 0;
+       }
 }
-
+ 
 class CircleDynamic extends ShapeDynamic {
     double radius;
 

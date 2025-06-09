@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-class InvalidOperationException extends Exception {
-    public InvalidOperationException(String message) {
+class IOException extends Exception {
+    public IOException(String message) {
         super(message);
     }
 }
@@ -40,19 +40,19 @@ public class UserException {
 
                 case '/':
                     if (b == 0) {
-                        throw new InvalidOperationException("Division by zero is not allowed.");
+                        throw new IOException("Division by zero is not allowed.");
                     }
                     result = a / b;
                     break;
 
                 default:
-                    throw new InvalidOperationException("Invalid operator entered.");
+                    throw new IOException("Invalid operator entered.");
             }
             
 
             System.out.println("Result: " + result);
 
-        } catch (InvalidOperationException e) {
+        } catch (IOException e) {
             System.out.println("Error: " + e.getMessage());
         } catch (Exception e) {
             System.out.println("Input Error: Please enter valid numbers and operator.");
